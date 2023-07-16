@@ -1,7 +1,6 @@
-👋 Hi, I’m @Sparkle.
-👀 I’m interested in Front-end Web Development.
+👋 Hi, I’m @Sparkle a Front-end Web Developer.
 🌱 I’m currently sharpening my skills on Javascript.
-💞️ I am open to working remotely and actively as a team member.
+Open to working remotely and actively as a team member.
 📫 How to reach me sparkle.ala@gmail.com
 
 <!---
